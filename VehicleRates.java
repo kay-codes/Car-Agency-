@@ -9,6 +9,7 @@ package corporatevehiclerentalagnecy;
 Abstract class that will maintain the polymorphism between CarRates, SUVRates, and TruckRates
 */
 public abstract class VehicleRates {
+    
     double dailyRate;
     double weeklyRate;
     double monthlyRate;
